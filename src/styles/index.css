@@ -1,0 +1,47 @@
+contactform{
+  margin: 20px;
+}
+
+input{
+  margin-bottom: 5px;
+  height: 20px;
+  border: 1px solid #d8d8d8;
+  padding: 3px;
+}
+
+textarea{
+  border: 1px solid #d8d8d8;
+  padding: 3px;
+}
+
+button{
+  padding: 10px;
+  border: 1px solid #d8d8d8;
+  background-color: #f9f9f9;
+  border-radius: 3px;
+}
+
+.error{
+  margin-left: 5px;
+  font-size: 13px;
+  color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+Create an review app
+Use React/Redux, Redux Form and React Router
+Create a simple generic review app which can be used by any service based company. Present users with a
+simple form which collects name/email/phone and star based reviews for their service and comments if user
+want to leave.
+Another page will show all reviews received and a collective average stars for their service.
+Store data in localstorage or firebase.*/
